@@ -22,7 +22,7 @@ Users can enter health-related information, and the trained ML model analyzes th
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit
+- flask
 - Matplotlib
 
 📊 Input Parameters
